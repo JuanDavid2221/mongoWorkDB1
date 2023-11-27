@@ -1,0 +1,126 @@
+// set-product.mongodb
+
+use("pet_store")
+
+db.products.updateOne(
+  // query
+  {_id: 1},
+  // change => operators
+  {
+    $set: {
+    title: "Juguete para perros interactivo",
+    price: 15.99,
+    description: "Juguete interactivo con plumas y campanitas para entretener a tu perro durante horas.",
+    category: "Juguetes",
+    image: "https://images.app.goo.gl/kntxnfJAe9cA8Yqg9"
+    }
+  },
+    // query
+    {_id: 2},
+    // change => operators
+    {
+      $set: {
+      title: "comida para perro",
+      price: 16.00,
+      description: "Deliciosa comida para perro.",
+      category: "Croquetas",
+      image: "https://images.app.goo.gl/9ifEVufUXXKVxveu7"
+      }
+    },
+       // query
+       {_id: 3},
+       // change => operators
+       {
+         $set: {
+         title: "comida para gato",
+         price: 15.00,
+         description: "Deliciosa comida para gatp.",
+         category: "Croquetas",
+         image: "https://images.app.goo.gl/JJm2Wrjc2sUJsYGs9"
+         }
+       },
+              // query
+              {_id: 4},
+              // change => operators
+              {
+                $set: {
+                title: "Shampoo",
+                price: 15.00,
+                description: "Shampo para gatos.",
+                category: "Limpieza",
+                image: "https://images.app.goo.gl/dtBceeSVrDT5LWyQ6"
+                }
+              },
+                  // query
+                  {_id: 5},
+                  // change => operators
+                  {
+                    $set: {
+                    title: "Jabon",
+                    price: 17.00,
+                    description: "Jabon para perros.",
+                    category: "Limpieza",
+                    image: "https://images.app.goo.gl/GhR1WDXgodu4Zx9f7"
+                    }
+                  },
+                     // query
+                     {_id: 6},
+                     // change => operators
+                     {
+                      $set: {
+                     title: "talco",
+                     price: 17.99,
+                     description: "Talco huele bueno.",
+                     category: "Limpieza",
+                     image: "https://images.app.goo.gl/oAL8uD4pwxcCTe4SA"
+                     }
+                     },
+                       // query
+  {_id: 7},
+  // change => operators
+  {
+    $set: {
+    title: "Baños secos",
+    price: 15.99,
+    description: "Baños secos para gatos, con los cuales no se esgresaran los felinos.",
+    category: "Limpieza",
+    image: "https://images.app.goo.gl/GrdRf2jX9ZDR8YVa8"
+    }
+  },
+      // query
+      {_id: 8},
+      // change => operators
+      {
+        $set: {
+        title: "sobres de comida para perro",
+        price: 14.00,
+        description: "Deliciosa comida para perro.",
+        category: "Comida",
+        image: "https://images.app.goo.gl/sAxFq8F2ywrGw8C78"
+        }
+      },
+            // query
+            {_id: 9},
+            // change => operators
+            {
+              $set: {
+              title: "sobres de comida para gatos",
+              price: 14.00,
+              description: "Deliciosa comida para gatos.",
+              category: "Comida",
+              image: "https://images.app.goo.gl/ScyVSrciGuSisSdR9"
+              }
+            },
+                        // query
+                        {_id: 9},
+                        // change => operators
+                        {
+                          $set: {
+                          title: "Locion para gatos",
+                          price: 20.00,
+                          description: "rica locion con increible aroma.",
+                          category: "Comida",
+                          image: "https://images.app.goo.gl/W5G5M2b7CqnfNKPK7"
+                          }
+                        },
+)
