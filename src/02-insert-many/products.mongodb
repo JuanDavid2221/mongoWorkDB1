@@ -1,0 +1,142 @@
+[
+  {
+    title: "Juguete para gatos interactivo",
+    price: 15.99,
+    description: "Juguete interactivo con plumas y campanitas para entretener a tu gato durante horas.",
+    category: "Juguetes",
+    image: "https://images.app.goo.gl/hJv2HTTQQKsg78Fh6"
+  },
+  {
+    title: "Collar ajustable para perros",
+    price: 9.50,
+    description: "Collar resistente y ajustable para perros de tamaño mediano a grande.",
+    category: "Accesorios",
+    image: "https://images.app.goo.gl/1yvm9mEGK6WJEVrR6"
+  },
+  {
+    title: "Comedero automático para mascotas",
+    price: 34.99,
+    description: "Comedero automático programable para perros y gatos, ideal para controlar las porciones de comida.",
+    category: "Alimentación",
+    image: "https://images.app.goo.gl/rcYb9rE2PmU1BRhe6"
+  },
+  {
+    title: "Cama acolchada para perros pequeños",
+    price: 28.75,
+    description: "Cama suave y cómoda para perros pequeños, con funda lavable.",
+    category: "Descanso",
+    image: "https://images.app.goo.gl/K11Q9gijsNF8L7WC8"
+  },
+  {
+    title: "Pelota de goma resistente",
+    price: 5.25,
+    description: "Pelota de goma duradera para jugar al aire libre con tu perro.",
+    category: "Juguetes",
+    image: "https://images.app.goo.gl/EyjGnCCmJQMvAHeR6"
+  },
+  {
+    title: "Arnés ajustable para gatos",
+    price: 12.99,
+    description: "Arnés suave y ajustable para gatos, ideal para paseos controlados.",
+    category: "Accesorios",
+    image: "https://images.app.goo.gl/8CvBHnciVEMnUkUK9"
+  },
+  {
+    title: "Rascador para gatos",
+    price: 22.50,
+    description: "Rascador resistente con plataforma y juguete colgante para gatos.",
+    category: "Descanso",
+    image: "https://images.app.goo.gl/eckm3REexk7vSx538"
+  },
+  {
+    title: "Chaqueta impermeable para perros",
+    price: 18.99,
+    description: "Chaqueta resistente al agua para proteger a tu perro en días lluviosos.",
+    category: "Accesorios",
+    image: "https://images.app.goo.gl/FTwaUau3Fq9KGG5V9"
+  },
+  {
+    title: "Juguete mordedor para cachorros",
+    price: 7.99,
+    description: "Juguete de goma suave y mordedora para cachorros en etapa de dentición.",
+    category: "Juguetes",
+    image: "https://images.app.goo.gl/DvrGHSQGcwhuzFVK8"
+  },
+  {
+    title: "Cepillo de pelo para mascotas",
+    price: 11.25,
+    description: "Cepillo suave para desenredar y mantener el pelo de tu mascota saludable.",
+    category: "Cuidado Personal",
+    image: "https://images.app.goo.gl/1vzhMkYyEiagyMTt6"
+  },
+  {
+    title: "Correa extensible para perros",
+    price: 16.50,
+    description: "Correa resistente y extensible para paseos cómodos con tu perro.",
+    category: "Accesorios",
+    image: "https://images.app.goo.gl/JC2yR7cbAswuye9f7"
+  },
+  {
+    title: "Caseta plegable para gatos",
+    price: 32.99,
+    description: "Caseta plegable y acogedora para que tu gato tenga su espacio privado.",
+    category: "Descanso",
+    image: "https://images.app.goo.gl/QtL63geN2HysEyzr8"
+  },
+  {
+    title: "Juguete dispensador de golosinas",
+    price: 14.75,
+    description: "Juguete interactivo para recompensar a tu mascota con golosinas mientras juega.",
+    category: "Juguetes",
+    image: "https://images.app.goo.gl/wdkyv9nWCLZYHTnS6"
+  },
+  {
+    title: "Peine quitapulgas para perros y gatos",
+    price: 9.99,
+    description: "Peine con dientes finos para eliminar pulgas y residuos del pelaje de tu mascota.",
+    category: "Cuidado Personal",
+    image: "https://images.app.goo.gl/EKbubusMo7htowhv6"
+  },
+  {
+    title: "Transportadora cómoda para mascotas",
+    price: 45.50,
+    description: "Transportadora segura y cómoda para viajar con tu mascota.",
+    category: "Viaje",
+    image: "https://images.app.goo.gl/raDAWLErjvVi2SUJ6"
+  },
+  {
+    title: "Snacks naturales para perros",
+    price: 6.99,
+    description: "Snacks naturales y saludables para premiar a tu perro durante el entrenamiento.",
+    category: "Alimentación",
+    image: "https://images.app.goo.gl/uXe8wtEFtod3WGWb6"
+  },
+  {
+    title: "Bolso bandolera para transportar gatos pequeños",
+    price: 29.99,
+    description: "Bolso acolchado y ventilado para llevar a tu gato a todas partes cómodamente.",
+    category: "Viaje",
+    image: "https://images.app.goo.gl/YyGp8hsTatCmqGES7"
+  },
+  {
+    title: "Peluche con sonido para cachorros",
+    price: 8.25,
+    description: "Peluche suave con sonido para entretener a cachorros y estimular su curiosidad.",
+    category: "Juguetes",
+    image: "https://images.app.goo.gl/qHod1eFWspR4hK4u6"
+  },
+  {
+    title: "Filtro de agua para bebedero de mascotas",
+    price: 12.50,
+    description: "Filtro para mantener el agua fresca y limpia en el bebedero de tu mascota.",
+    category: "Alimentación",
+    image: "https://images.app.goo.gl/3dWVA9C5vvhwMe6p7"
+  },
+  {
+    title: "Disfraz divertido para perros",
+    price: 20.99,
+    description: "Disfraz de superhéroe para divertirte con tu perro en ocasiones especiales.",
+    category: "Accesorios",
+    image: "https://images.app.goo.gl/k6fev52ksbkFUE6YA"
+  }
+]
